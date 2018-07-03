@@ -3,4 +3,4 @@ project(sjjg_djh)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(sjjg_djh main.cpp)
+add_executable(sjjg_djh main.cpp mppx.cpp mppx.h)
